@@ -1,5 +1,5 @@
 {
-  "name": "cordova-vk",
+  "name": "cordova-plugin-vk",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akveo/cordova-vk.git"
+    "url": "git+https://github.com/denistrofimov/cordova-plugin-vk.git"
   },
   "author": "Vladimir Lugovsky",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/akveo/cordova-vk/issues"
+    "url": "https://github.com/denistrofimov/cordova-plugin-vk/issues"
   },
-  "homepage": "https://github.com/akveo/cordova-vk#readme"
+  "homepage": "https://github.com/denistrofimov/cordova-plugin-vk#readme"
 }
